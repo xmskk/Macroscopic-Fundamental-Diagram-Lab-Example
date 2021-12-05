@@ -3,7 +3,7 @@ Lab assignment for the application of an MFD with simulated traffic data of a 2 
 
 This was an assignment for the Intro to Traffic Flow Modeling and Intelligent Transport Systems course provided by EPFL on edX.
 
-It analyzes a 2 hour traffic simulation data using an MFD model.
+It analyzes a given 2 hour traffic simulation data using an MFD model.
 
 Full analysis can be found [here](https://github.com/xmskk/Macroscopic-Fundamental-Diagram-Lab-Example/files/7655771/Lab_example.pdf).
 
