@@ -31,6 +31,14 @@ The time series suggests that a large influx of vehicles happened at around 16 m
 
 ![Figure_13](https://user-images.githubusercontent.com/28818052/144745079-13789c7e-e7c5-47a4-9113-c5f3f18f8293.png)
 
+![Figure_23](https://user-images.githubusercontent.com/28818052/144745308-7859e490-7b15-492a-80e9-c378f752415f.png)
+
+![Table_5](https://user-images.githubusercontent.com/28818052/144745464-0d3b7759-28f7-4dea-bd5c-2ca7217b07aa.jpg)
+
+50% of the links were chosen based on certain methods and scaled the MFD to compare with the original.
+
+The comparison for each method was done by the Frechet Distance.
+
 ![Figure_25](https://user-images.githubusercontent.com/28818052/144745089-5bf4ea76-dcef-42bc-a9a9-d7dae374261e.png)
 
 ![Figure_26](https://user-images.githubusercontent.com/28818052/144745092-a424149b-0857-4105-a3e5-5545f784825f.png)
