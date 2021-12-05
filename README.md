@@ -13,11 +13,7 @@ The main code for the analysis is in 'example.m'
 
 Comments and results of the analysis can be found on 'Lab_example.pdf'.
 
-Some key figures and tables can be found below.
-
-![table_1](https://user-images.githubusercontent.com/28818052/144744572-79716b83-95fe-4ec5-b7c5-bf418e4c758d.png)
-![table_2](https://user-images.githubusercontent.com/28818052/144744573-f4b5011a-509c-46f0-a452-d2df2401b75d.png)
-![table_3](https://user-images.githubusercontent.com/28818052/144744575-e01298ea-a380-4195-9c08-865482f131df.png)
+Some key figures can be found below.
 
 ![Figure_1](https://user-images.githubusercontent.com/28818052/144744549-7ac94c3b-1712-40cc-91f1-f6785c855843.png)
 ![Figure_2](https://user-images.githubusercontent.com/28818052/144744551-2e6a8440-d513-4a40-aa32-4acba7e2089a.png)
