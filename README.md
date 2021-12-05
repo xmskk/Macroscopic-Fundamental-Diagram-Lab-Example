@@ -12,3 +12,20 @@ The discrete frechet distance used for the analysis was given by Zachary Danzige
 The main code for the analysis is in 'example.m'
 
 Comments and results of the analysis can be found on 'Lab_example.pdf'.
+
+Some key figures and tables can be found below.
+
+![table_1](https://user-images.githubusercontent.com/28818052/144744572-79716b83-95fe-4ec5-b7c5-bf418e4c758d.png)
+![table_2](https://user-images.githubusercontent.com/28818052/144744573-f4b5011a-509c-46f0-a452-d2df2401b75d.png)
+![table_3](https://user-images.githubusercontent.com/28818052/144744575-e01298ea-a380-4195-9c08-865482f131df.png)
+
+![Figure_1](https://user-images.githubusercontent.com/28818052/144744549-7ac94c3b-1712-40cc-91f1-f6785c855843.png)
+![Figure_2](https://user-images.githubusercontent.com/28818052/144744551-2e6a8440-d513-4a40-aa32-4acba7e2089a.png)
+![Figure_3](https://user-images.githubusercontent.com/28818052/144744552-8bfc6c32-176c-4af9-8fb5-48eefa19a603.png)
+![Figure_7](https://user-images.githubusercontent.com/28818052/144744553-64e5b70a-8c8d-450f-83ab-26b23e35ea13.png)
+![Figure_9](https://user-images.githubusercontent.com/28818052/144744554-6a6d1460-b74b-4fd4-b47f-994ee15f2d18.png)
+![Figure_13](https://user-images.githubusercontent.com/28818052/144744555-af7b704c-c1bf-48b5-966f-660c5b6d9ddc.png)
+![Figure_26](https://user-images.githubusercontent.com/28818052/144744557-60b1020c-fff3-4edf-8663-9a3ff39f16f2.png)
+![Figure_27](https://user-images.githubusercontent.com/28818052/144744558-49d69d5f-6ec5-464e-9c39-587390458fb8.png)
+
+[FrechetDistance.xlsx](https://github.com/xmskk/Macroscopic-Fundamental-Diagram-Lab-Example/files/7655755/FrechetDistance.xlsx)
