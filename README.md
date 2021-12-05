@@ -27,5 +27,3 @@ Some key figures and tables can be found below.
 ![Figure_13](https://user-images.githubusercontent.com/28818052/144744555-af7b704c-c1bf-48b5-966f-660c5b6d9ddc.png)
 ![Figure_26](https://user-images.githubusercontent.com/28818052/144744557-60b1020c-fff3-4edf-8663-9a3ff39f16f2.png)
 ![Figure_27](https://user-images.githubusercontent.com/28818052/144744558-49d69d5f-6ec5-464e-9c39-587390458fb8.png)
-
-[FrechetDistance.xlsx](https://github.com/xmskk/Macroscopic-Fundamental-Diagram-Lab-Example/files/7655755/FrechetDistance.xlsx)
