@@ -5,7 +5,7 @@ This was an assignment for the Intro to Traffic Flow Modeling and Intelligent Tr
 
 It analyzes a given 2 hour traffic simulation data using an MFD model.
 
-Full analysis can be found [here](https://github.com/xmskk/Macroscopic-Fundamental-Diagram-Lab-Example/files/7655771/Lab_example.pdf).
+Full analysis can be found on ['Lab_example.pdf'](https://github.com/xmskk/Macroscopic-Fundamental-Diagram-Lab-Example/files/7655771/Lab_example.pdf).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
