@@ -19,7 +19,7 @@ Results
 
 ![Figure_27](https://user-images.githubusercontent.com/28818052/144744961-b2d47c2d-fe03-4aee-b5d3-fe9f1afda45b.png)
 
-Overall, we can see that traffic occupancy is increasing overtime. However, the bottom right area of the map stays low on occupancy.
+Overall, we can see that traffic occupancy is increasing overtime. However, the bottom right area of the map (region 2) stays low on occupancy.
 
 ![Figure_7](https://user-images.githubusercontent.com/28818052/144744980-8076580b-1c56-4e5f-9b82-7d2071365687.png)
 
