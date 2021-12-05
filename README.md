@@ -5,28 +5,34 @@ This was an assignment for the Intro to Traffic Flow Modeling and Intelligent Tr
 
 It analyzes a 2 hour traffic simulation data using an MFD model.
 
-The 'dataLab1.mat' and 'gplotdc.m' files were given by the course.
+Full analysis can be found [here](https://github.com/xmskk/Macroscopic-Fundamental-Diagram-Lab-Example/files/7655771/Lab_example.pdf).
 
-The discrete frechet distance used for the analysis was given by Zachary Danziger.
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
-The main code for the analysis is in 'example.m'
+Results
 
-Comments and results of the analysis can be found on 'Lab_example.pdf'.
+![Figure_1](https://user-images.githubusercontent.com/28818052/144744935-6f66e7e8-9a07-496e-ac5f-a1accb8a1cf5.png)
 
-Some key figures can be found below.
+![Figure_2](https://user-images.githubusercontent.com/28818052/144744938-e6aafc68-7730-4f9f-a4f1-df8c3038419a.png)
 
-![Figure_1](https://user-images.githubusercontent.com/28818052/144744549-7ac94c3b-1712-40cc-91f1-f6785c855843.png)
+![Figure_3](https://user-images.githubusercontent.com/28818052/144744939-e8e15129-170c-4b69-9fc1-313544de2ca4.png)
 
-![Figure_2](https://user-images.githubusercontent.com/28818052/144744551-2e6a8440-d513-4a40-aa32-4acba7e2089a.png)
+![Figure_27](https://user-images.githubusercontent.com/28818052/144744961-b2d47c2d-fe03-4aee-b5d3-fe9f1afda45b.png)
 
-![Figure_3](https://user-images.githubusercontent.com/28818052/144744552-8bfc6c32-176c-4af9-8fb5-48eefa19a603.png)
+Overall, we can see that traffic occupancy is increasing overtime. However, the bottom right area of the map stays low on occupancy.
 
-![Figure_7](https://user-images.githubusercontent.com/28818052/144744553-64e5b70a-8c8d-450f-83ab-26b23e35ea13.png)
+![Figure_7](https://user-images.githubusercontent.com/28818052/144744980-8076580b-1c56-4e5f-9b82-7d2071365687.png)
 
-![Figure_9](https://user-images.githubusercontent.com/28818052/144744554-6a6d1460-b74b-4fd4-b47f-994ee15f2d18.png)
+![Figure_9](https://user-images.githubusercontent.com/28818052/144744981-78265bd2-6259-43b4-834d-0db4b938dae0.png)
 
-![Figure_13](https://user-images.githubusercontent.com/28818052/144744555-af7b704c-c1bf-48b5-966f-660c5b6d9ddc.png)
+Region 4 shows highest capacity and region 2 shows lowest capacity with low occupancy throughout.
 
-![Figure_26](https://user-images.githubusercontent.com/28818052/144744557-60b1020c-fff3-4edf-8663-9a3ff39f16f2.png)
+The time series suggests that a large influx of vehicles happened at around 16 min.
 
-![Figure_27](https://user-images.githubusercontent.com/28818052/144744558-49d69d5f-6ec5-464e-9c39-587390458fb8.png)
+![Figure_13](https://user-images.githubusercontent.com/28818052/144745079-13789c7e-e7c5-47a4-9113-c5f3f18f8293.png)
+
+![Figure_25](https://user-images.githubusercontent.com/28818052/144745089-5bf4ea76-dcef-42bc-a9a9-d7dae374261e.png)
+
+![Figure_26](https://user-images.githubusercontent.com/28818052/144745092-a424149b-0857-4105-a3e5-5545f784825f.png)
+
+All regions show similar spacial distributions over time except for perhaps region 2, where most lanes stay on low occupancy.
